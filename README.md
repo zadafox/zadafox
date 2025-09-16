@@ -1,6 +1,6 @@
 ## Hi there 👋
  
-I’m Zada Tulkibayeva, an aspiring data analyst with a passion for uncovering insights through data analysis and visualization. I'm learning to turn raw data into actionable strategies and clear visuals. Here I have independent project developed by myself and within courses.
+I’m Zada Tulkibayeva, an aspiring data analyst with a passion for uncovering insights through data analysis and visualization. I'm learning to turn raw data into actionable strategies and clear visuals. Here I have projects developed independently and within courses.
 
 ## Skills:
 - **Programming and Query Languages**: Python, SQL  
